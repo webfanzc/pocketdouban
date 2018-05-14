@@ -1,0 +1,20 @@
+@import './assets/lib/reset.css';
+@import './assets/fonts/iconfont.css';
+body {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+  color: #333;
+}
+
+.app {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.detail-page .index {
+  display: none;
+}
